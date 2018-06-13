@@ -1,5 +1,6 @@
 <?php
 
+// include the inclusions.php file for custom functions
 include 'inclusions.php';
 session_start();
 
