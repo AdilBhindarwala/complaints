@@ -40,7 +40,7 @@
 						    </thead>
                             
 <?php
-
+//include the below file for custom functions
 include 'inclusions.php';
 session_start();
 
